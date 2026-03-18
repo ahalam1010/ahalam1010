@@ -35,16 +35,14 @@
 
 ---
 
-### 📊 GitHub Stats
-
+### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahalam1010&show_icons=true&theme=rose_pine&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahalam1010&layout=compact&theme=rose_pine&hide_border=true"/>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=rose_pine&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=ahalam1010&theme=rose_pine&hide_border=true"/>
 </p>
-
 ---
 
 ### 🐍 Contribution Snake
